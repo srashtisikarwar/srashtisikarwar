@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**srashtisikarwar/srashtisikarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Srashti Sikarwar
 
-Here are some ideas to get you started:
+💻 Python & Django Developer  
+📍 Open to work  
+🚀 Backend Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Python
+- Django
+- Django REST Framework
+- MySQL
+
+---
+
+## 🚀 Projects
+🔹 Job Portal  
+https://github.com/srashtisikarwar/Job-Portal-Django  
+
+🔹 File Upload API  
+https://github.com/srashtisikarwar/django-fileupload-api  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=srashtisikarwar&show_icons=true)
+
+---
