@@ -27,16 +27,11 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### 💻 Programming Languages
-
-* Python
-* SQL
-* JavaScript
-* HTML5
-* CSS3
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,vscode,bootstrap" />
+</p>
 ### ⚙️ Frameworks & Libraries
 
 * Django
@@ -111,13 +106,24 @@ https://github.com/srashtisikarwar/django-fileupload-api
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srashtisikarwar\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srashtisikarwar&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srashtisikarwar\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srashtisikarwar&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=srashtisikarwar\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=srashtisikarwar&theme=tokyonight)
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/srashtisikarwar/srashtisikarwar/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=srashtisikarwar&color=blue)
+
+
 
 # 📫 Connect With Me
 
