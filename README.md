@@ -108,15 +108,15 @@ https://github.com/srashtisikarwar/django-fileupload-api
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srashtisikarwar&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srashtisikarwar&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srashtisikarwar&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srashtisikarwar&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=srashtisikarwar&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=srashtisikarwar&theme=tokyonight" />
 </p>
 
 ---
