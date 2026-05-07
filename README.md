@@ -103,7 +103,6 @@ REST API project using Django REST Framework featuring:
 https://github.com/srashtisikarwar/django-fileupload-api
 
 ---
-
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srashtisikarwar&show_icons=true&theme=tokyonight)
@@ -112,6 +111,7 @@ https://github.com/srashtisikarwar/django-fileupload-api
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=srashtisikarwar&theme=tokyonight)
 
+---
 
 ## 🐍 Contribution Snake
 
@@ -122,7 +122,6 @@ https://github.com/srashtisikarwar/django-fileupload-api
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=srashtisikarwar&color=blue)
-
 
 
 # 📫 Connect With Me
