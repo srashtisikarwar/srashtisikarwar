@@ -29,11 +29,13 @@
 
 # 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,vscode,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,git,github,vscode,bootstrap,postman,pandas,numpy" />
 </p>
 
-## ⚙️ Frameworks & Libraries
+---
+
+# ⚙️ Frameworks & Libraries
 
 - Django
 - Django REST Framework
@@ -42,12 +44,16 @@
 - NumPy
 - Matplotlib
 
-## 🗄️ Databases
+---
+
+# 🗄️ Databases
 
 - SQLite
 - MySQL
 
-## 🔧 Tools & Platforms
+---
+
+# 🔧 Tools & Platforms
 
 - Git
 - GitHub
@@ -59,49 +65,73 @@
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🧾 Employee Payroll Management System
 
 AI-powered payroll system with:
 
-- Employee Management
-- Attendance Tracking
-- Payroll Processing
-- Salary Prediction
-- AI HR Chatbot
-- PDF Report Generation
+✔ Employee Management  
+✔ Attendance Tracking  
+✔ Payroll Processing  
+✔ Salary Prediction  
+✔ AI HR Chatbot  
+✔ PDF Report Generation  
 
-🔗 Repository:  
+🔗 Repository  
 https://github.com/srashtisikarwar/Employees_Payroll_System
 
----
+</td>
+
+<td width="50%">
 
 ## 💼 Job Portal System
 
 Django-based recruitment platform with:
 
-- Candidate Dashboard
-- Employer Dashboard
-- Job Applications
-- Resume Upload
-- Authentication System
+✔ Candidate Dashboard  
+✔ Employer Dashboard  
+✔ Resume Upload  
+✔ Authentication System  
+✔ Job Applications  
 
-🔗 Repository:  
+🔗 Repository  
 https://github.com/srashtisikarwar/Job-Portal-Django
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🔗 Django REST API - File & Product Upload System
+# 🔗 Django REST API - File & Product Upload System
 
 REST API project using Django REST Framework featuring:
 
-- File Upload APIs
-- Product Upload APIs
-- CRUD Operations
-- JSON Responses
-- API Testing with Postman
+✔ File Upload APIs  
+✔ Product Upload APIs  
+✔ CRUD Operations  
+✔ JSON Responses  
+✔ API Testing with Postman  
 
-🔗 Repository:  
+🔗 Repository  
 https://github.com/srashtisikarwar/django-fileupload-api
+
+---
+
+# 🔥 GitHub Contribution Graph
+
+[![Srashti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=srashtisikarwar&theme=tokyo-night)](https://github.com/srashtisikarwar)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=srashtisikarwar&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
@@ -123,7 +153,7 @@ https://github.com/srashtisikarwar/django-fileupload-api
 
 # 👀 Profile Views
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=srashtisikarwar&color=blue" />
 </p>
 
@@ -131,7 +161,11 @@ https://github.com/srashtisikarwar/django-fileupload-api
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/srashtisikarwar
+<p align="center">
+<a href="https://github.com/srashtisikarwar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
