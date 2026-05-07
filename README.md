@@ -1,5 +1,8 @@
-# Hi 👋, I'm Srashti Sikarwar
+<h1 align="center">Hi 👋, I'm Srashti Sikarwar</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Developer;Data+Analyst;Backend+Developer;AI+Enthusiast">
+</p>
 ## 🚀 Python Developer | Django Developer | Data Analyst
 
 💻 Passionate about building real-world web applications, REST APIs, automation systems, and AI-powered solutions using Python and Django.
