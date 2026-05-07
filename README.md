@@ -113,13 +113,7 @@ https://github.com/srashtisikarwar/django-fileupload-api
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/srashtisikarwar/srashtisikarwar/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Views
+# 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=srashtisikarwar&color=blue)
 
