@@ -1,66 +1,125 @@
 # Hi 👋, I'm Srashti Sikarwar
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Django+Developer;Backend+Engineer;Open+to+Work)
+## 🚀 Python Developer | Django Developer | Data Analyst
 
-💻 Passionate Python & Django Developer  
-📍 India | Open to Work  
-🚀 Focused on Backend Development  
+💻 Passionate about building real-world web applications, REST APIs, automation systems, and AI-powered solutions using Python and Django.
 
 ---
 
-## 🛠️ Tech Stack
+# 👩‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django)
-![DRF](https://img.shields.io/badge/DRF-API-red?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-VersionControl-black?style=for-the-badge&logo=git)
+* 🎓 B.Tech CSE Graduate
+* 🌱 Currently learning:
 
----
+  * Advanced Django
+  * Django REST Framework
+  * Deployment & DevOps
+  * AI Integration
+* 💡 Interested in:
 
-## 🚀 Projects
-
-### 🔹 Job Portal Web Application  
-🔗 https://github.com/srashtisikarwar/Job-Portal-Django  
-
-✔️ Authentication system  
-✔️ Job posting & application system  
-✔️ Django ORM  
+  * Web Development
+  * Backend Development
+  * Data Analytics
+  * AI Applications
 
 ---
 
-### 🔹 File Upload API  
-🔗 https://github.com/srashtisikarwar/django-fileupload-api  
+# 🛠️ Tech Stack
 
-✔️ File upload system  
-✔️ API handling  
-✔️ Validation  
+### 💻 Programming Languages
+
+* Python
+* SQL
+* JavaScript
+* HTML5
+* CSS3
+
+### ⚙️ Frameworks & Libraries
+
+* Django
+* Django REST Framework
+* Bootstrap
+* Pandas
+* NumPy
+* Matplotlib
+
+### 🗄️ Databases
+
+* SQLite
+* MySQL
+
+### 🔧 Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Power BI
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![Stats](https://github-readme-stats.vercel.app/api?username=srashtisikarwar&show_icons=true&theme=tokyonight)
+## 🧾 Employee Payroll Management System
 
+AI-powered payroll system with:
 
----
+* Employee Management
+* Attendance Tracking
+* Payroll Processing
+* Salary Prediction
+* AI HR Chatbot
+* PDF Report Generation
 
-## 🏆 Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=srashtisikarwar)
-
----
-
-## 👀 Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=srashtisikarwar&color=blue)
-
----
-
-## 📫 Contact Me
-
-📧 srashtisikarwar1502@gmail.com  
+🔗 Repository:
+https://github.com/srashtisikarwar/Employees_Payroll_System
 
 ---
 
-⭐ Consistently building and learning backend development
+## 💼 Job Portal System
+
+Django-based recruitment platform with:
+
+* Candidate Dashboard
+* Employer Dashboard
+* Job Applications
+* Resume Upload
+* Authentication System
+
+🔗 Repository:
+https://github.com/srashtisikarwar/Job-Portal-Django
+
+---
+
+## 🔗 Django REST API - File & Product Upload System
+
+REST API project using Django REST Framework featuring:
+
+* File Upload APIs
+* Product Upload APIs
+* CRUD Operations
+* JSON Responses
+* API Testing with Postman
+
+🔗 Repository:
+https://github.com/srashtisikarwar/django-fileupload-api
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srashtisikarwar\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srashtisikarwar\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=srashtisikarwar\&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+* GitHub: https://github.com/srashtisikarwar
+
+---
+
+⭐ “Always learning, building, and improving.”
